@@ -1,5 +1,9 @@
 package leetcode;
 
+/**
+ * @author goloschy
+ */
+
 public class Battleships_in_a_Board_419
 {
   public static void main(String[] args)
