@@ -1,4 +1,4 @@
-package main.leetcode;
+package leetcode;
 
 import java.util.HashMap;
 import java.util.HashSet;
@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.Set;
 import java.util.TreeSet;
 
-public class PerfectRectangle
+public class PerfectRectangle_391
 {
   public static void main(String[] args)
   {

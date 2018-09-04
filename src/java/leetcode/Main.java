@@ -1,4 +1,6 @@
-package main.leetcode;
+package leetcode;
+
+import leetcode.utils.Utils;
 
 import java.util.Arrays;
 import java.util.Date;
@@ -16,11 +18,14 @@ public class Main
   public static void main(String[] args)
   {
     //TreeNode node = TreeNode.array2Tree(new Integer[]{3,1,5,0,2,4,6,null,null,null,3}, null, 0);
-    TreeNode node = TreeNode.array2Tree(new Integer[]{-2147483648,null,2147483647,-2147483648}, null, 0);
-    System.out.println(new Validate_Binary_Search_Tree_98().isValidBST(node));
+    //TreeNode node = TreeNode.array2Tree(new Integer[]{-2147483648,null,2147483647,-2147483648}, null, 0);
+    //System.out.println(new Validate_Binary_Search_Tree_98().isValidBST(node));
 
+    Utils.printBits(-5);
+    Utils.printBits(10);
+    Utils.printBits(5);
 
-
+    System.out.println("start");
     if (true)
       return;
 

@@ -1,4 +1,6 @@
-package main.leetcode;
+package leetcode;
+
+import leetcode.TreeNode;
 
 /**
  * @author goloschy

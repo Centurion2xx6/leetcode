@@ -1,6 +1,6 @@
-package main.leetcode;
+package leetcode;
 
-public class UglyNumber3
+public class UglyNumber_263_3
 {
   public static void main(String[] args)
   {

@@ -1,9 +1,9 @@
-package main.leetcode;
+package leetcode;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class UglyNumber2
+public class UglyNumber_263_2
 {
   private static List<Integer> primeNumbers = new ArrayList<>();
   public static void main(String[] args)

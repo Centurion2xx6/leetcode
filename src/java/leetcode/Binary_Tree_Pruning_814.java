@@ -1,4 +1,7 @@
-package main.leetcode;
+package leetcode;
+
+import leetcode.TreeNode;
+import org.junit.Test;
 
 public class Binary_Tree_Pruning_814
 {

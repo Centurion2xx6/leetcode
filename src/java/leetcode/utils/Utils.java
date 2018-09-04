@@ -45,6 +45,23 @@ public class Utils
     }
   }
 
+  public static void printBits(int num)
+  {
+    char[] bits = new char[32];
+    for (int i = 0; i < 32; i++)
+    {
+      if ((num & -2147483648) == 0)
+      {
+        bits[i] = '0';
+      }
+      else
+      {
+        bits[i] = '1';
+      }
+      num = num << 1;
+    }
+    System.out.println(bits);
+  }
 
   public static void print(char[][] a)
   {
