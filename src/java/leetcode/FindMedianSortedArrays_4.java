@@ -1,4 +1,4 @@
-package leetcode;
+package main.leetcode;
 
 public class FindMedianSortedArrays_4
 {

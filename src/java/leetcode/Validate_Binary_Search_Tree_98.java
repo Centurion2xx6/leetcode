@@ -1,4 +1,4 @@
-package leetcode;
+package main.leetcode;
 
 public class Validate_Binary_Search_Tree_98
 {
