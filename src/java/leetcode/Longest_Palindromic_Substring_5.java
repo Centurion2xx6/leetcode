@@ -1,4 +1,4 @@
-package main.leetcode;
+package java.leetcode;
 
 public class Longest_Palindromic_Substring_5
 {

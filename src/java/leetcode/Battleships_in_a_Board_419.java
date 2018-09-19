@@ -1,4 +1,4 @@
-package main.leetcode;
+package java.leetcode;
 
 /**
  * @author goloschy

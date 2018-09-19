@@ -1,4 +1,4 @@
-package main.leetcode;
+package java.leetcode;
 
 public class Prime_Palindrome_866
 {

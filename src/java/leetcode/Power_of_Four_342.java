@@ -1,4 +1,4 @@
-package leetcode;
+package java.leetcode;
 
 public class Power_of_Four_342
 {

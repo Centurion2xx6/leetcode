@@ -1,4 +1,4 @@
-package leetcode;
+package java.leetcode;
 
 public class UglyNumber_263_3
 {

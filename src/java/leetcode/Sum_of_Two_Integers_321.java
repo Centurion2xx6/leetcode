@@ -1,4 +1,4 @@
-package leetcode;
+package java.leetcode;
 
 public class Sum_of_Two_Integers_321
 {

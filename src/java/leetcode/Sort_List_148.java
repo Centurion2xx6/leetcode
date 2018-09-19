@@ -1,4 +1,4 @@
-package main.leetcode;
+package java.leetcode;
 
 public class Sort_List_148
 {
